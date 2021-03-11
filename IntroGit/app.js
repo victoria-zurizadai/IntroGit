@@ -1,3 +1,3 @@
 let titulo= document.getElementById('titulo');
 
-titulo.innerHTML = "Cambio del titulo";
+titulo.innerHTML = "Zuri García está aprendiendo GIT por línea de comandos";
